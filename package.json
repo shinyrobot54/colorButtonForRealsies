@@ -1,5 +1,4 @@
 {
-  "name": "Gabe Meyerson, Everett Kircher",
   "version": "0.0.1",
   "private": true,
   "description": "Color Changing button",
@@ -17,13 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/???/????"
+    "url": "https://github.com/shinyrobot54/colorButton"
   },
   "engines": {
     "node": ">= 7.2.0"
   },
   "license": "MIT",
   "dependencies": {
-    "ejs": "latest"
+    "ejs": "latest",
+    "scss-utils": "latest"
   }
 }

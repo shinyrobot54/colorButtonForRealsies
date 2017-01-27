@@ -1,4 +1,4 @@
-# PWA-Template 2017
+# stuff
 
 ## Progressive Web Application
 ### Vanilla ES6/Node, EJS
